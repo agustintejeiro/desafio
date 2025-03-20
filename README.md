@@ -70,5 +70,5 @@ RUN pip install -r requirements.txt
 # Exponer el puerto en el que la app estará corriendo
 EXPOSE 8080
 
-# Comando para ejecutar la aplicación
+# Comando para ejecutar la aplicación 
 CMD ["python", "app.py"]
